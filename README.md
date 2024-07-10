@@ -14,8 +14,6 @@ The overall application is designed to simulate mock job interviews using Google
 
 In addition to the interviewer functionality, the application also includes a chatbot that interacts with customers, asks relevant questions, and recommends the best insurance policy type based on their responses.
 
-This frontend application needs to be run in conjunction with the project backend, which is located at [AI Chatbot Backend](https://github.com/nicolegunn/ai-chatbot-backend.git).
-
 ## Features
 
 - Interactive UI for the AI interviewer
@@ -30,9 +28,6 @@ This frontend application needs to be run in conjunction with the project backen
 ![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ## Prerequisites
-
-![Node](https://img.shields.io/badge/Node.js-16.0.0-green)
-![npm](https://img.shields.io/badge/npm-8.0.0-red)
 
 - Node.js (v16 or later)
 - npm (v8 or later) or yarn (v1.22 or later)
@@ -60,14 +55,7 @@ This frontend application needs to be run in conjunction with the project backen
    npm run dev
    ```
 6. **Clone and setup the backend**:  
-   The frontend needs to be run in conjunction with the backend, which is located at [AI Chatbot Backend](https://github.com/nicolegunn/ai-chatbot-backend.git).
-
-   ```sh
-   git clone https://github.com/nicolegunn/ai-chatbot-backend.git
-   cd ai-chatbot-backend
-   npm install
-   npm run dev
-   ```
+   The frontend needs to be run in conjunction with the backend, which is located at [AI Chatbot Backend](https://github.com/cyy963/ai-chatbot-backend.git).
 
 ## Contributors
 
