@@ -1,11 +1,5 @@
 # AI Chatbot - Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-
 ## Description
 
 This is the frontend application for the AI Chatbot project. It provides an interface for users to interact with the AI interviewer and the insurance policy recommendation chatbot. The frontend communicates with the backend to fetch and display data.
